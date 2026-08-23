@@ -1,7 +1,6 @@
-# DevBoard — Advanced (UI + Go + Postgres)
+# 3-tier-Web application — Advanced (UI + Go + Postgres)
 
-This is the same DevBoard UI as the `master` branch, but now the data comes
-from a **real backend** instead of fake in-memory data.
+
 
 Three pieces talk to each other:
 
